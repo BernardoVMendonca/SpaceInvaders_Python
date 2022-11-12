@@ -1,2 +1,2 @@
 # Space-Invaders-Python
-Space Invaders, the first game I made, made with python
+Space Invaders, the first game that I ever made, made with python
